@@ -18,3 +18,4 @@ class LCA_DAGTest {
 		}
 
 	}
+}
