@@ -41,6 +41,7 @@ class LCA_DAGTest {
 		} catch (IllegalArgumentException e1) {
 			// catch exception
 		}
+
  }
 
 
