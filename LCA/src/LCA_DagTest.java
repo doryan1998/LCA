@@ -42,8 +42,13 @@ class LCA_DAGTest {
 			// catch exception
 		}
 
+
+ }
+  @Test
+
  }   
 	@Test
+
 	void testAcyclic() {
 		LCA_DAG dag1 = new LCA_DAG(5);
 		dag1.addEdge(1, 3);
